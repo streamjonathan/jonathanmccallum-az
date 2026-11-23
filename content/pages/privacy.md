@@ -40,9 +40,11 @@ This site follows the EU's General Data Protection Regulation (GDPR) as its stan
 
 The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
 
-## Children
+## 18 yaşdan kiçik
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Bu sayt 18 yaşdan kiçik insanlar üçün deyil. Burada İsaya iman haqqında danışılır və bu, dini məzmundur, ona görə də sayt böyüklər üçün yazılıb. Əgər 18 yaşdan kiçiksənsə, burada şəxsi məlumatlarını paylaşma və Jonathana yazma.
+
+İspaniyada qanun deyir ki, 14 yaşdan kiçik uşaq şəxsi məlumatlarını internetdə paylaşmazdan əvvəl valideynin və ya qəyyumun razılığı lazımdır. Bu saytın öz qaydası bundan daha sərtdir: 18 yaşdan kiçiksənsə, bu sayt sənin üçün deyil.
 
 ## Changes
 
