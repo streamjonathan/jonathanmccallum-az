@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Məxfilik
 
-Bu saytı Getaria, İspaniyada yaşayan Jonathan McCallum idarə edir. Bu kiçik şəxsi saytdır: yazılar və həmin yazılardan cavab verən çat. Burada hesab açmaq olmur, izləmə yoxdur, reklam yoxdur və satılan heç nə yoxdur. Sayt dünyanın harasında olursunuzsa olun, bütün ziyarətçilər üçün Avropa məxfilik qanununa (GDPR) əməl edir.
+Bu saytı Bask ölkəsində yaşayan Jonathan McCallum idarə edir. Bu kiçik şəxsi saytdır: yazılar və həmin yazılardan cavab verən çat. Burada hesab açmaq olmur, izləmə yoxdur, reklam yoxdur və satılan heç nə yoxdur. Sayt dünyanın harasında olursunuzsa olun, bütün ziyarətçilər üçün Avropa məxfilik qanununa (GDPR) əməl edir.
 
 Bu səhifə və ya şəxsi məlumatlarınız barədə nəsə soruşmaq lazımdırsa, Jonathana <a href="#" data-contact-email data-contact-email-text>Mənə e-poçt yazın</a> vasitəsilə yazın. Ona [Instagram](https://www.instagram.com/jonamccallum) və ya [Threads](https://www.threads.com/@jonamccallum) vasitəsilə də mesaj göndərə bilərsiniz.
 
